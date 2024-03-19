@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>I am learning: </h1>
+<h3>I am learning: </h3>
 <img src="https://github.com/enrikaaaaa/enrikaaaaa/assets/122116349/8628c306-a222-4a2e-8ddc-ab4f7e7ab9d9" style="width: 50px; height: 50px;">
 <img src="https://github.com/enrikaaaaa/enrikaaaaa/assets/122116349/ad4bd1fe-9056-4adb-99be-2d4065f3a06f" style="width: 50px; height: 50px;">
 <img src="https://github.com/enrikaaaaa/enrikaaaaa/assets/122116349/d8fa04c3-61fd-442b-8791-972749ecd98c" style="width: 50px; height: 50px;">
