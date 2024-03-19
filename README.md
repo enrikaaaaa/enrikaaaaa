@@ -2,19 +2,19 @@
 
 I'm Enrika, a budding front-end developer thrilled to embark on this journey of discovery and growth in the world of web development. As a junior developer, I bring a blend of enthusiasm, curiosity, and a hunger for knowledge to every project I undertake.
 
-Passion for Front-End Development
+<h3>Passion for Front-End Development</h3>
 
 Front-end development is where I found my passion. The ability to shape user experiences through code fascinates me. From crafting layouts with HTML and CSS to adding interactivity with JavaScript, I'm constantly amazed by the creative possibilities and the impact they can have on users.
 
-Learning and Development
+<h3>Learning and Development</h3>
 
 As a junior developer, I recognize the importance of continuous learning. I'm dedicated to honing my skills and expanding my knowledge base. Whether it's through online courses, tutorials, or hands-on projects, I'm always seeking opportunities to grow and improve.
 
-Tools and Technologies
+<h3>Tools and Technologies</h3>
 
 I'm proficient in foundational technologies like HTML, CSS, and JavaScript, and I'm eager to delve deeper into frameworks and libraries such as React. I'm also familiar with version control systems like Git and platforms like GitHub, essential tools for modern development workflows.
 
-Let's Connect and Grow Together
+<h3>Let's Connect and Grow Together</h3>
 
 If you're searching for a junior front-end developer who's eager to learn, collaborate, and make a meaningful contribution to your team, I'd love to connect. Together, we can create innovative solutions and embark on an exciting journey of growth and development.
 
