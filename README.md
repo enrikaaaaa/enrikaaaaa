@@ -33,5 +33,4 @@ If you're searching for a junior front-end developer who's eager to learn, colla
 <img src="https://github.com/enrikaaaaa/enrikaaaaa/assets/122116349/adc31083-bf9a-4104-ba06-cd2dd99efb01" style="width: 50px; height: 50px; border-radius: 50%;" alt="Learning">
 <img src="https://github.com/enrikaaaaa/enrikaaaaa/assets/122116349/f979bd5a-12dc-4a61-ab02-1564ae5e52c0" style="width: 50px; height: 50px; border-radius: 50%;" alt="Learning">
 <img src="https://github.com/enrikaaaaa/enrikaaaaa/assets/122116349/c90a08f5-95c7-49ae-9d23-56b194b64d67" style="width: 50px; height: 50px; border-radius: 50%;" alt="Learning">
-aa/assets/122116349/f979bd5a-12dc-4a61-ab02-1564ae5e52c0" style="width: 50px; height: 50px;border-radius: 50%";">
-<img src="https://github.com/enrikaaaaa/enrikaaaaa/assets/122116349/c90a08f5-95c7-49ae-9d23-56b194b64d67" style="width: 50px; height: 50px;border-radius: 50%";">
+
